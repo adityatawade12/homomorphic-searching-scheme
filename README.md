@@ -8,7 +8,8 @@ Resarch Paper: A Homomorphic Searching Scheme For Sensitive Data In NoSQL Databa
 <hr />
 <ol>
   <li>Clone the repo</li>
-    ```git clone ```
+    ``` git clone https://github.com/adityatawade12/homomorphic-searching-scheme.git
+  ```
   <li></li>
   <li></li>
 </ol>
