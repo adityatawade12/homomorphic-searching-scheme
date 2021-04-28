@@ -1,6 +1,6 @@
 # homomorphic-searching-scheme
-RDBMS IA-1 IA-2
-<hr/>
+## RDBMS IA-1 IA-2
+<hr />
 ## Name: Aditya Tawade <br/>
 ## Class: SY COMP B <br/>
 ### Roll No: 1911126 <br/>
