@@ -24,11 +24,11 @@ Resarch Paper: A Homomorphic Searching Scheme For Sensitive Data In NoSQL Databa
 
 6. To create a new record choose option 1, enter values to be stored as prompted
 
- ![image](https://user-images.githubusercontent.com/62465343/118370850-496e0b00-b5c7-11eb-9e2d-2d4298f97ce8.png)
+ ![image](https://user-images.githubusercontent.com/62465343/118370850-496e0b00-b5c7-11eb-9e2d-2d4298f97ce8.png) <br/>
 7. To search for a record stored in the database, choose option 2. Enter the value to be searched
- ![image](https://user-images.githubusercontent.com/62465343/118370882-702c4180-b5c7-11eb-9068-7d58e67a6b57.png)
+ ![image](https://user-images.githubusercontent.com/62465343/118370882-702c4180-b5c7-11eb-9068-7d58e67a6b57.png)<br/>
 8. To exit, choose option 3
- ![image](https://user-images.githubusercontent.com/62465343/118370908-918d2d80-b5c7-11eb-820a-6e9066511787.png)
+ ![image](https://user-images.githubusercontent.com/62465343/118370908-918d2d80-b5c7-11eb-820a-6e9066511787.png)<br/>
  
 
 ------------
